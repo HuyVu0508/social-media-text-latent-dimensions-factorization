@@ -7,7 +7,7 @@ This project is inspired by a psychology research on how human view about this w
 In this project, we want to explore people's beliefs based on their social media updates which significantly reflect their everyday life. Using GPT-2 Language Model and Variational Auto-Encoder to extract embeddings and find latent dimensions coressponding with latent beliefs of users about our surrounding world. And by utilizing encoder-decoder mechanism, after exploring the dimensions, we can generate text from these dimensions to see what semantics these latent dimensions correspond to.
 
 <p align="center">
-  <img align="center" src="https://github.com/HuyVu0508/social-media-text-latent-dimensions-factorization/blob/master/images/tasks_comparisons.jpg" width="400" height="225">
+  <img align="center" src="https://github.com/HuyVu0508/social-media-text-latent-dimensions-factorization/blob/master/images/tasks_comparisons.jpg" width="500" height="265">
 </p>
 
 The results from this project are expected to confirm theories found by psychologists. And potentially, find new beliefs that haven't been explored before. The task defined in this project can be considered new and therefore, might be applied to other information-retrieval tasks. We call this task "Latent Generative Belief Analysis", thanks to the ability to analyze the latent dimensions as well as generate text corresponding to those dimensions.
