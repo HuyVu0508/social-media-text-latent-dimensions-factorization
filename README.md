@@ -8,5 +8,5 @@ In this project, we want to explore people's beliefs based on their social media
 
 The results from this project are expected to confirm theories found by psychologists. And potentially, find new beliefs that haven't been explored before. The task defined in this project can be considered new and therefore, might be applied to other information-retrieval tasks. We call this task "Latent Generative Belief Analysis", thanks to the ability to analyze the latent dimensions as well as generate text corresponding to those dimensions.
 
-![New task comparisons with existing tasks](images/tasks_comparisons.jpg)
+![New task comparisons with existing tasks](images/tasks_comparisons.jpg | width=100)
 
