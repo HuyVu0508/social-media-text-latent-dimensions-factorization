@@ -1,4 +1,4 @@
-# social-media-text-latent-dimensions-factorization
+# Exploring latent beliefs dimensions in social media text
 
 This project is inspired by a psychology research on how human view about this world. A person's point of view about the surrounding enviroment might have a great impact on how he/she thinks and acts. For example, people might believe that "the world is interesting and excitiing", or "everything is always against me". Psychologists named these foundation beliefs "primals". 
 
